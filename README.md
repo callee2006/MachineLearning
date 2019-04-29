@@ -5,7 +5,9 @@
   1. colab 열기 (colab.research.google.com)
   1. Google account로 로그인
   1. 파일 -> 노트열기 -> GITHUB
+  
   GitHub URL에 "https://github.com/callee2006/MachineLearning"
+  
   1. 노트 선택 및 실행
 
   (git 설치 후 "git clone https://github.com/callee2006/MachineLearning" 하면 다운로드 받으실 수 있지만, scikit-learn, matplotlib, graphviz, pytorch, mglearn 등이 설치되어 있어야 실행 가능합니다.)
