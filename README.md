@@ -16,7 +16,8 @@
 예제코드 목록
 
   * python quickstart examples
-    - python_core.ipynb
+    - python_core.ipynb (minimum tutorial)
+    - python_tutorial.ipynb (quick tutorial)
 
   * accessing datasets in python
     - dataset.ipynb
